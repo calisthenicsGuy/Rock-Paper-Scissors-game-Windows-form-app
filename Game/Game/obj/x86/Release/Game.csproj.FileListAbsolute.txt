@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Game\Game\bin\Release\Game.exe.config
+C:\Users\HP\source\repos\Game\Game\bin\Release\Game.exe
+C:\Users\HP\source\repos\Game\Game\bin\Release\Game.pdb
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.exe
+C:\Users\HP\source\repos\Game\Game\obj\x86\Release\Game.pdb
